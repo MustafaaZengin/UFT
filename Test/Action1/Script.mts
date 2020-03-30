@@ -1,0 +1,2 @@
+﻿Browser("GittiGidiyor – Türkiye'nin").Page("GittiGidiyor – Türkiye'nin").WebElement("WebElement").Click @@ hightlight id_;_Browser("GittiGidiyor – Türkiye'nin").Page("GittiGidiyor – Türkiye'nin").WebElement("WebElement")_;_script infofile_;_ZIP::ssf1.xml_;_
+Browser("GittiGidiyor – Türkiye'nin").Page("GittiGidiyor – Türkiye'nin").Link("Hesabım Giriş Yap  veya").Click @@ hightlight id_;_Browser("GittiGidiyor – Türkiye'nin").Page("GittiGidiyor – Türkiye'nin").Link("Hesabım Giriş Yap  veya")_;_script infofile_;_ZIP::ssf2.xml_;_
